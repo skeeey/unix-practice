@@ -1,0 +1,8 @@
+*.o
+*.i
+*.s
+*.out
+auth-os-user/auth_os_user
+exec-cmd/exec_demo
+mycontainer/mycontainer
+compiling-process/hello
